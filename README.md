@@ -46,32 +46,30 @@ Fiber optic links can be used for transmission of digital as well as analog sign
 
 ## BLOCK DIAGRAM
 
-*(Insert block diagram here)*
+<img width="889" height="520" alt="image" src="https://github.com/user-attachments/assets/a20c628c-ca06-4fc5-b44e-253bd7272006" />
 
----
-
-## CONNECTION DIAGRAM  
-**Setting up a Digital Link**
-
-*(Insert connection diagram here)*
 
 ---
 
 ## TABULATION  
 **Transmission through Digital Link**
 
-| Frequency (Hz) | Output Signal Amplitude (Vo) | Gain = Vo/Vi | Gain in dB |
-|----------------|------------------------------|--------------|------------|
-|                |                              |              |            |
+![WhatsApp Image 2025-11-17 at 23 13 03_20fdafe2](https://github.com/user-attachments/assets/dfd56e88-afdd-4343-a229-ab09c26d3f82)
 
 ---
 
 ## MODEL GRAPH
 
-*(Insert model graph here)*
+<img width="964" height="434" alt="image" src="https://github.com/user-attachments/assets/f4641f6a-6e05-433a-bae4-4109fa00ae65" />
+
+---
+
+## GRAPH
+
+![WhatsApp Image 2025-11-17 at 23 18 26_ebff217f](https://github.com/user-attachments/assets/5df5d48c-bf6f-4b91-b11a-e1f89a878334)
 
 ---
 
 ## RESULT
 
-*(Summarize observations and conclusions here)*
+The frequency response of phototransister detector in the 600nm and 950nm fiber digital link was stuided and the retain between input and received signal was verified.
