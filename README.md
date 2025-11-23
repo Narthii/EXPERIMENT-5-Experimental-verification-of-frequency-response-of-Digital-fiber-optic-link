@@ -90,7 +90,8 @@ Observe the detected signal at post TTL OUT on oscilloscope.
 
 ## GRAPH
 
-![WhatsApp Image 2025-11-17 at 23 18 26_ebff217f](https://github.com/user-attachments/assets/5df5d48c-bf6f-4b91-b11a-e1f89a878334)
+![WhatsApp Image 2025-11-23 at 21 51 40_ca6b2bef](https://github.com/user-attachments/assets/d6920499-9d9c-4fb2-91c2-b8dab9bdd245)
+
 
 ---
 
